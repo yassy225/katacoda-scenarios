@@ -3,8 +3,7 @@
 以下のコマンドを実行することで、環境の準備を行います。  
 この作業は1,2分ほどかかる場合があります。  
 
-`docker run --privileged --add-host=exastro-it-automation:127.0.0.1 -d -p 8080:80 -p 10443:443 --name
- exastro01 exastro/it-automation:1.7.2-ja`{{execute}}
+`docker run --privileged --add-host=exastro-it-automation:127.0.0.1 -d -p 8080:80 -p 10443:443 --name exastro01 exastro/it-automation:1.7.2-ja`{{execute}}
 
 ## 画面の表示
 Terminal横の`+`ボタンをクリックし、`View HTTP port 80 on Host 1`をクリックします。  
