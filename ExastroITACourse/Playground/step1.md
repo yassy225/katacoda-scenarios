@@ -9,13 +9,6 @@
 `Exastro ITA`タブをクリックします。  
 ※エラーが発生した場合は、時間をおいてから再度クリックしてください。
 
-"environment": {
-    "showdashboard": true,
-    "dashboards": {"name": "Exastro ITA", "port": 80}
-    "uilayout": "terminal-iframe"
-}
-
-
 ## ログイン
 ログイン画面が表示されたら、以下のログインID、パスワードを入力し、`ログイン`ボタンでログインします。  
 - ログインID：`administrator`
