@@ -18,7 +18,9 @@
     }
   },
   "environment": {
-    "uilayout": "terminal"
+    "showdashboard": true,
+    "dashboards": {"name": "Exastro ITA", "port": 80}
+    "uilayout": "terminal-iframe"
   },
   "backend": {
     "imageid": "ubuntu:2004"
