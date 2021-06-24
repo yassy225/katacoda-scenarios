@@ -1,5 +1,11 @@
 {
   "title": "Exastro ITA",
   "description": "Learn Exastro ITA",
-  "courses": []
+  "courses": [
+    {
+      "course_id": "Playground",
+      "title": "Playground",
+      "description": "Use ExastroITA in a safe playground environment"
+    }
+  ]
 }
