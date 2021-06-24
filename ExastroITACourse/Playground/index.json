@@ -19,7 +19,8 @@
   },
   "environment": {
     "showdashboard": true,
-    "dashboards": {"name": "Exastro ITA", "port": 80},
+    "dashboards": [
+      {"name": "Exastro ITA", "port": 80}],
     "uilayout": "terminal-iframe"
   },
   "backend": {
