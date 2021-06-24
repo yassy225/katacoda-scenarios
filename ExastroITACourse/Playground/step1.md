@@ -1,9 +1,3 @@
-# Exastro ITA Playground
-本コースは、オープンソースソフトウェアであるExastro ITAを自由に使用できるPlaygroundです。
-
-誤りや修正箇所を見つけた場合、以下へご連絡ください。
-- https://github.com/yassy225/katacoda-scenarios/issues
-
 # 準備作業
 ## Exastro ITAの起動
 以下のコマンドを実行することで、環境の準備を行います。  
@@ -20,6 +14,3 @@ Terminal横の`+`ボタンをクリックし、`View HTTP port 80 on Host 1`を�
 - ログインID：`administrator`
 - 初期パスワード：`password`
 ※初期パスワードはログイン後に変更する必要があります。
-
-# リンク
-[Exastro ITA](https://exastro-suite.github.io/it-automation-docs/index_ja.html)
